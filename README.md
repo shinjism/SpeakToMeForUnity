@@ -1,5 +1,7 @@
 # SpeakToMe For Unity
 
+## Unity Native Plugin using iOS Speech Recognition
+
 アップル社によって公開されている音声認識を扱ったサンプルコード [SpeakToMe: Using Speech Recognition with AVAudioEngine](https://developer.apple.com/library/content/samplecode/SpeakToMe/Introduction/Intro.html) の Unity 版です。
 
 
